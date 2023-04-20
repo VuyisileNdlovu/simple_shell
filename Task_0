@@ -1,0 +1,16 @@
+#include "main.h"
+
+
+/**
+main - Entry point
+
+Return: Always 0
+*/
+int main (void)
+{
+
+printf("Authors:\n");
+printf("Vuyisile Ndlovu\n");
+printf("Plaxedes Chitehwe\n");
+return (0);
+}
