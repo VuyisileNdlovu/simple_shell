@@ -1,16 +1,16 @@
-#include "main.h"
+#include"main.h"
 
 
 /**
-main - Entry point
+main-Entrypoint
 
-Return: Always 0
+Return:Always0
 */
-int main (void)
+intmain(void)
 {
 
 printf("Authors:\n");
-printf("Vuyisile Ndlovu\n");
-printf("Plaxedes Chitehwe\n");
-return (0);
+printf("VuyisileNdlovu\n");
+printf("PlaxedesChitehwe\n");
+return(0);
 }
